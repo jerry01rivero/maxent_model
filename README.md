@@ -1,6 +1,4 @@
 **Maxent model**
 
-The purpose of this project consist in get the probabilities of regions that goes up 30 degrees Celsius of Mexico City.
-
-The extraction of data, manipulation, modelling and some visualizations are made in R. The Kepler map is made in Python.
+This project predicts the probability of Mexico City regions exceeding 30°C. Data extraction, manipulation, modeling, and visualizations are performed in R, while the Kepler map is generated using Python.
 
